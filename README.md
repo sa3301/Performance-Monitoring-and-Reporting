@@ -41,21 +41,18 @@ This project reflects my interest in performance engineering, system monitoring,
 
 ---
 
-## 📁 Planned Project Structure
+## 📁 Project Structure
 
 ```plaintext
 /performance-tool
 │── src/
-│   ├── profiler.py          # Profiling logic (cProfile, timeit, pstats)
+│   ├── profiler.py          # Profiling logic (timeit, pstats)
 │   ├── reporter.py          # CSV/JSON performance report generation
 │   ├── thresholds.py        # Threshold configuration + automatic flagging
 │   └── utils.py             # Helper functions
 │
 │── tests/
-│   └── sample_tests.py      # Example functions to benchmark
+│   └── sample_tests.py      # functions to benchmark
 │
 │── reports/
 │   └── performance_report.csv   # Auto-generated performance output
-│
-│── requirements.txt
-└── README.md
