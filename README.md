@@ -4,7 +4,7 @@ A Python-based performance testing framework designed to measure execution effic
 This project reflects my interest in performance engineering, system monitoring, and building practical tools outside of academic work.
 
 > ⚠️ **Note:** The full source code is currently being prepared and will be uploaded shortly.  
-> The README is provided now so recruiters can understand the project’s purpose, features, and technical scope.
+> The README is provided now so the project’s purpose, features, and technical scope can be understoo.
 
 ---
 
